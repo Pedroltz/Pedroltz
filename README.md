@@ -3,10 +3,11 @@
 <divi size = '20px'> beginner programmer 🖥️
 <h2> <img src = "https://media1.giphy.com/media/Rx0fYGGK2IEhjK5Sm6/giphy.gif" width = 32px> Skills <img src = "https://media1.giphy.com/media/Rx0fYGGK2IEhjK5Sm6/giphy.gif" width = 32px> </h2>
 <div style="display: inline_block"><br>
-<img align="center" alt="Giphy" height="50" width="50" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=ecf05e47wha9886j037ovdt1acx2rkfl8dbsxjxdr77zxkar&rid=giphy.gif&ct=s">
+
+<h1><img align="center" alt="Giphy" height="50" width="50" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=ecf05e47wha9886j037ovdt1acx2rkfl8dbsxjxdr77zxkar&rid=giphy.gif&ct=s">
 <img align="center" alt="giphy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="center" alt=".net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">  
-<div style="display: inline_block"><br> 
+<div style="display: inline_block"><br><h1> 
  <div> 
   <h1>🌎 Where to find me?:<br>
   <a href="" target="https://www.youtube.com/channel/UCQaTMWpkiSZ8oMF6mKar3mA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
