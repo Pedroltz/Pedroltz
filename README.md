@@ -8,7 +8,7 @@
   
 ## 👨‍💻 Linguagens e Tecnologias:
 - Python | Java | TypeScript | SQL
-- | C# | Git | GitHub | Scrum
+- C# | Git | GitHub | Metodologia Scrum
 - HTML | CSS | Node.js
 - Machine Learning | Data Science
 
