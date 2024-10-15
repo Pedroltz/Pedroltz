@@ -14,7 +14,3 @@
 ## 🌱 Estudando Atualmente:
 - Processamento de linguagem natural (PLN)
 - Tecnologia Angular
-
-## 📫 Vamos Conectar?
-- [LinkedIn](https://www.linkedin.com/in/pedrotunin/)
-- [E-mail](mailto:pedroluiztuninzx@gmail.com)
