@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Pedro Luiz Tunin!
+# Pedro Luiz Tunin
 
 🚀 **Desenvolvedor em formação**, atualmente cursando **Ciências da Computação** e trabalhando na **Zion Logtech**, onde ajudo a criar **soluções inovadoras para logística** através de software.
 
