@@ -3,8 +3,7 @@
 🚀 **Desenvolvedor em formação**, atualmente cursando **Ciências da Computação** e trabalhando na **Zion Logtech**, onde ajudo a criar **soluções inovadoras para logística** através de software.
 
 ## 🚧 Projetos em Andamento
-- 
-- 
+- UniNote, aplicação web para gerenciamento de anotações.
   
 ## 👨‍💻 Linguagens e Tecnologias:
 - Python | Java | TypeScript | SQL
@@ -13,8 +12,8 @@
 - Machine Learning | Data Science
 
 ## 🌱 Estudando Atualmente:
-- 
-- 
+- Processamento de linguagem natural (PLN)
+- Tecnologia Angular
 
 ## 📫 Vamos Conectar?
 - [LinkedIn](https://www.linkedin.com/in/pedrotunin/)
