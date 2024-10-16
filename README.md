@@ -14,4 +14,4 @@
 ## 🌱 Estudando Atualmente:
 - Metodologias de Desenvolvimento
 - Processamento de linguagem natural (PLN)
-- Tecnologia Angular
+- Framework Angular
