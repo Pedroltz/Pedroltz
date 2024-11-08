@@ -13,5 +13,6 @@
 
 ## 🌱 Estudando Atualmente:
 - Metodologias de Desenvolvimento
+- Binary Tree
 - Processamento de linguagem natural (PLN)
 - Framework Angular
