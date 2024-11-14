@@ -4,6 +4,7 @@
 
 ## 🚧 Projetos em Andamento
 - UniNote, aplicação web para gerenciamento de anotações.
+- Comic Reader, aplicação web para leitura de quadrinhos
   
 ## 👨‍💻 Linguagens e Tecnologias:
 - Python | Delphi | TypeScript | SQL
