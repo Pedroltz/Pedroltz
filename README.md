@@ -3,7 +3,7 @@
 🚀 **Desenvolvedor em formação**, atualmente cursando **Ciências da Computação** e trabalhando na **Zion Logtech**, onde ajudo a criar **soluções inovadoras para logística** através de software.
 
 ## 🚧 Projetos em Andamento
-- UniNote, aplicação web para gerenciamento de anotações.
+- TaskProj
   
 ## 👨‍💻 Linguagens e Tecnologias:
 - Python | Delphi | TypeScript | SQL
