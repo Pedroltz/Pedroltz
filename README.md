@@ -1,9 +1,6 @@
 # Pedro Luiz Tunin
 
 🚀 **Desenvolvedor em formação**, atualmente cursando **Ciências da Computação** e trabalhando na **Zion Logtech**, onde ajudo a criar **soluções inovadoras para logística** através de software.
-
-## 🚧 Projetos em Andamento
-- TaskProj
   
 ## 👨‍💻 Linguagens e Tecnologias:
 - Python | Delphi | TypeScript | SQL
