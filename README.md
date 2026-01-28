@@ -1,5 +1,3 @@
-# Tunin
-
 ## 👨‍💻 Linguagens e Tecnologias:
 - Python | Delphi | TypeScript | SQL
 - C# | Git | GitHub | Metodologia Scrum
