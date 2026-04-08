@@ -13,7 +13,7 @@
 ## ./whoami
 
 I'm a software developer with experience in full-stack applications, desktop systems, and mobile.
-My current goal is to gradually move towards **infrastructure and DevOps** —
+My current goal is to gradually move towards **infrastructure and DevOps**,
 networking, automation, cloud, and resilient production environments.
 
 I enjoy understanding how things work under the hood, not just how to use them.
