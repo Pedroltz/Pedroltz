@@ -1,11 +1,9 @@
-```
  ████████╗██╗   ██╗███╗   ██╗██╗███╗   ██╗
  ╚══██╔══╝██║   ██║████╗  ██║██║████╗  ██║
     ██║   ██║   ██║██╔██╗ ██║██║██╔██╗ ██║
     ██║   ██║   ██║██║╚██╗██║██║██║╚██╗██║
     ██║   ╚██████╔╝██║ ╚████║██║██║ ╚████║
     ╚═╝    ╚═════╝ ╚═╝  ╚═══╝╚═╝╚═╝  ╚═══╝
-```
 
 > Software developer focused on robust systems and infrastructure.
 > Igaraçu do Tietê, Brazil.
@@ -24,23 +22,20 @@ I enjoy understanding how things work under the hood, not just how to use them.
 
 ## ./stack
 
-```
 [ Backend    ]  C#  ·  .NET  ·  Python  ·  Node.js
 [ Frontend   ]  TypeScript  ·  Angular  ·  HTML  ·  CSS
 [ Mobile     ]  Dart  ·  Flutter
 [ Data       ]  SQL  ·  Firebase
 [ Systems    ]  Delphi  ·  C++  ·  C
 [ Infra/Ops  ]  Git  ·  Linux  ·  automation  ·  cloud (in progress)
-```
+
 
 ---
 
 ## ./interests
 
-```
   Infrastructure as code
   Networking and protocols
   Distributed systems
   Security and hardening
-  Environment automation
-```
+
