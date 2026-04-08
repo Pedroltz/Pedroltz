@@ -1,33 +1,46 @@
-# Pedro Tunin
+```
+ ████████╗██╗   ██╗███╗   ██╗██╗███╗   ██╗
+ ╚══██╔══╝██║   ██║████╗  ██║██║████╗  ██║
+    ██║   ██║   ██║██╔██╗ ██║██║██╔██╗ ██║
+    ██║   ██║   ██║██║╚██╗██║██║██║╚██╗██║
+    ██║   ╚██████╔╝██║ ╚████║██║██║ ╚████║
+    ╚═╝    ╚═════╝ ╚═╝  ╚═══╝╚═╝╚═╝  ╚═══╝
+```
 
-## Stack principal
-
-| Área              | Tecnologias                                      |
-|-------------------|--------------------------------------------------|
-| Backend           | C#, .NET, Python, Node.js                        |
-| Frontend          | TypeScript, Angular, HTML, CSS                   |
-| Mobile            | Dart, Flutter                                    |
-| Banco de dados    | SQL, Firebase                                    |
-| Outros            | Delphi, C++, Git, Scrum, Machine Learning        |
-
----
-
-## Projetos em destaque
-
-**[TaskProj](https://github.com/Pedroltz/TaskProj)**
-Sistema de gerenciamento de tarefas — Angular + .NET 9 + Firebase Authentication
-
-**[MyCoin2](https://github.com/Pedroltz/MyCoin2)**
-Aplicativo Flutter educativo sobre investimentos
-
-**[2091-RetroGame](https://github.com/Pedroltz/2091-RetroGame)**
-RPG de terminal com narrativa em JSON e sistema de combate, feito em C#
-
-**[BinaryTreeStudy](https://github.com/Pedroltz/BinaryTreeStudy)**
-Estudo aprofundado de árvores binárias em C++
+> Software developer focused on robust systems and infrastructure.
+> Igaraçu do Tietê, Brazil.
 
 ---
 
-## Contato
+## ./whoami
 
-[LinkedIn](https://www.linkedin.com/in/pedrotunin/) &nbsp;·&nbsp; pedroluiztuninzx@gmail.com
+I'm a software developer with experience in full-stack applications, desktop systems, and mobile.
+My current goal is to gradually move towards **infrastructure and DevOps** —
+networking, automation, cloud, and resilient production environments.
+
+I enjoy understanding how things work under the hood, not just how to use them.
+
+---
+
+## ./stack
+
+```
+[ Backend    ]  C#  ·  .NET  ·  Python  ·  Node.js
+[ Frontend   ]  TypeScript  ·  Angular  ·  HTML  ·  CSS
+[ Mobile     ]  Dart  ·  Flutter
+[ Data       ]  SQL  ·  Firebase
+[ Systems    ]  Delphi  ·  C++  ·  C
+[ Infra/Ops  ]  Git  ·  Linux  ·  automation  ·  cloud (in progress)
+```
+
+---
+
+## ./interests
+
+```
+  Infrastructure as code
+  Networking and protocols
+  Distributed systems
+  Security and hardening
+  Environment automation
+```
