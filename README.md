@@ -1,10 +1,5 @@
 # Pedro Tunin
 
-Desenvolvedor de software focado em soluções práticas e bem estruturadas.
-Atualmente na **Zion Logtec**, em Igaraçu do Tietê, Brasil.
-
----
-
 ## Stack principal
 
 | Área              | Tecnologias                                      |
