@@ -7,9 +7,7 @@
     ╚═╝    ╚═════╝ ╚═╝  ╚═══╝╚═╝╚═╝  ╚═══╝
 ```
 
-> Software developer focused on robust systems and infrastructure.
-> Igaraçu do Tietê, Brazil.
-
+> Software developer 
 ---
 
 ## ./whoami
