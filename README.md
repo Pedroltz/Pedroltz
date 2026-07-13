@@ -27,15 +27,3 @@
 * Conhecimento em Linux, servidores, redes e acesso remoto
 * Interesse em DevOps, automação, cloud e infraestrutura
 * Desenvolvimento com C#, .NET, Python e SQL
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pedroltz\&show_icons=true\&theme=github_dark\&hide_border=true)
-
-</div>
-
-<p align="center">
-  <a href="mailto:pedroluiztuninzx@gmail.com">Email</a>
-  •
-  <a href="https://github.com/Pedroltz">GitHub</a>
-</p>
