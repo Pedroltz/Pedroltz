@@ -1,44 +1,41 @@
-```
- ████████╗██╗   ██╗███╗   ██╗██╗███╗   ██╗
- ╚══██╔══╝██║   ██║████╗  ██║██║████╗  ██║
-    ██║   ██║   ██║██╔██╗ ██║██║██╔██╗ ██║
-    ██║   ██║   ██║██║╚██╗██║██║██║╚██╗██║
-    ██║   ╚██████╔╝██║ ╚████║██║██║ ╚████║
-    ╚═╝    ╚═════╝ ╚═╝  ╚═══╝╚═╝╚═╝  ╚═══╝
-```
+<h1 align="center">Olá, eu sou Pedro Luiz 👋</h1>
 
-> Software developer 
----
+<p align="center">
+  Desenvolvedor de software com foco em <strong>Linux, DevOps, infraestrutura e backend</strong>.
+</p>
 
-## ./whoami
+<p align="center">
+  Gosto de criar aplicações, automatizar ambientes e entender como os sistemas funcionam por baixo dos panos.
+</p>
 
-I'm a software developer with experience in full-stack applications, desktop systems, and mobile.
-My current goal is to gradually move towards **infrastructure and DevOps**,
-networking, automation, cloud, and resilient production environments.
+<div align="center">
 
-I enjoy understanding how things work under the hood, not just how to use them.
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![DevOps](https://img.shields.io/badge/DevOps-0A66C2?style=flat-square\&logo=azuredevops\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square\&logo=gnubash\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
 
----
+</div>
 
-## ./stack
+## Sobre mim
 
-```
-[ Backend    ]  C#  ·  .NET  ·  Python  ·  Node.js
-[ Frontend   ]  TypeScript  ·  Angular  ·  HTML  ·  CSS
-[ Mobile     ]  Dart  ·  Flutter
-[ Data       ]  SQL  ·  Firebase
-[ Systems    ]  Delphi  ·  C++  ·  C
-[ Infra/Ops  ]  Git  ·  Linux  ·  automation  ·  cloud (in progress)
-```
+* Experiência com desenvolvimento backend, web e desktop
+* Conhecimento em Linux, servidores, redes e acesso remoto
+* Interesse em DevOps, automação, cloud e infraestrutura
+* Desenvolvimento com C#, .NET, Python e SQL
 
----
+<div align="center">
 
-## ./interests
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pedroltz\&show_icons=true\&theme=github_dark\&hide_border=true)
 
-```
-  Infrastructure as code
-  Networking and protocols
-  Distributed systems
-  Security and hardening
-  Environment automation
-```
+</div>
+
+<p align="center">
+  <a href="mailto:pedroluiztuninzx@gmail.com">Email</a>
+  •
+  <a href="https://github.com/Pedroltz">GitHub</a>
+</p>
