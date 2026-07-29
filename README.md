@@ -1,12 +1,8 @@
-<h1 align="center">Olá, eu sou Pedro Luiz 👋</h1>
+<h1 align="center">Hello, I'm Pedro Luiz 👋</h1>
 
-<p align="center">
-  Desenvolvedor de software com foco em <strong>Linux, DevOps, infraestrutura e backend</strong>.
-</p>
+<p align="center"> Software developer focused on <strong>Linux, DevOps, infrastructure, and backend development</strong>. </p>
 
-<p align="center">
-  Gosto de criar aplicações, automatizar ambientes e entender como os sistemas funcionam por baixo dos panos.
-</p>
+<p align="center"> I enjoy building applications, automating environments, and understanding how systems work under the hood. </p>
 
 <div align="center">
 
@@ -21,9 +17,8 @@
 
 </div>
 
-## Sobre mim
-
-* Experiência com desenvolvimento backend, web e desktop
-* Conhecimento em Linux, servidores, redes e acesso remoto
-* Interesse em DevOps, automação, cloud e infraestrutura
-* Desenvolvimento com C#, .NET, Python e SQL
+## About Me
+* Experience with backend, web, and desktop development
+* Knowledge of Linux, servers, networking, and remote access
+* Interest in DevOps, automation, cloud computing, and infrastructure
+* Development with C#, .NET, Python, and SQL
