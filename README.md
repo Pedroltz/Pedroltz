@@ -23,11 +23,6 @@ A backend-focused software developer building reliable systems with **.NET / C#*
 
 </div>
 
-### 🔭 Focus & Experience
-- 🐧 **Linux & Systems**: Daily driver is **Arch Linux / CachyOS**. Hands-on with shell scripting (Bash/Zsh), desktop optimization, Linux server management, and system-level tooling.
-- ⚙️ **Backend Engineering**: Designing scalable Web APIs and backend services using **C# & .NET**, following SOLID principles, Clean Architecture, and multi-tenant SaaS patterns.
-- 🚀 **DevOps & Automation**: Automated deployment workflows with GitHub Actions, containerization with Docker, and terminal-based utilities.
-
 <div align="center">
 
 ```bash
