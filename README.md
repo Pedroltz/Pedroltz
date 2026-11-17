@@ -28,20 +28,6 @@ A backend-focused software developer building reliable systems with **.NET / C#*
 - ⚙️ **Backend Engineering**: Designing scalable Web APIs and backend services using **C# & .NET**, following SOLID principles, Clean Architecture, and multi-tenant SaaS patterns.
 - 🚀 **DevOps & Automation**: Automated deployment workflows with GitHub Actions, containerization with Docker, and terminal-based utilities.
 
----
-
-### 🌟 Featured Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[PedroOS](https://github.com/Pedroltz/PedroOS)** | Interactive retro portfolio inspired by Windows 95 | ASP.NET Core (.NET 10), TypeScript, 98.css |
-| **[ofizzy](https://github.com/Pedroltz/ofizzy)** | Multi-tenant SaaS platform for service shops: work orders, billing, and dashboard | .NET, Angular, PostgreSQL |
-| **[deploykit](https://github.com/Pedroltz/deploykit)** | Terminal-based CI/CD deployment tool with GitHub Actions integration | Go, GitHub Actions, CLI |
-| **[RDP-SessionManager](https://github.com/Pedroltz/RDP-SessionManager)** | Remote desktop session manager tailored for Linux desktop & server environments | Python, Linux |
-| **[2091-RetroGame](https://github.com/Pedroltz/2091-RetroGame)** | Cross-platform terminal RPG built with Clean Architecture & SOLID | C#, .NET |
-
----
-
 <div align="center">
 
 ```bash
